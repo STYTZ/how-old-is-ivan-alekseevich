@@ -1,0 +1,12 @@
+body {
+  padding-top: 5rem;
+}
+.container {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
